@@ -19,7 +19,7 @@ This application provides a conversational interface where users can ask questio
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/thoughtful-ai-agent.git
+   git clone https://github.com/ghazikhanihamed/thoughtful-ai-agent.git
    cd thoughtful-ai-agent
    ```
 
@@ -34,11 +34,6 @@ This application provides a conversational interface where users can ask questio
    ```
 
 4. Open your browser and navigate to `http://localhost:8501`
-
-### Option 2: Run on Repl.it
-
-You can also access and run this project directly on Repl.it:
-[https://replit.com/@YourUsername/ThoughtfulAIAgent](https://replit.com/@YourUsername/ThoughtfulAIAgent)
 
 ## Implementation Details
 
